@@ -1,0 +1,13 @@
+{
+    "plant": 1,
+    "label": [
+        {
+            "plant": 1,
+            "score": 0.99
+        },
+        {
+            "plant": 2,
+            "score": 0.01
+        }
+    ]
+}
